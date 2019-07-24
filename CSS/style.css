@@ -1,0 +1,140 @@
+hr{
+display: block;
+	clear: both;
+	height: 0;
+	margin: 40px 0 110px;
+	padding: 0;
+	border: 0;
+	font-family: arial;
+	text-align: center;
+	font-size: 60px;
+    line-height: 1;
+    margin-top: 60px;
+}
+hr:after {
+	content: "\273D \273D \273D";
+	height: 0;			
+	letter-spacing: 1em;
+	color: #aaa;
+}
+
+header{
+    margin-bottom: 40px;
+}
+.navbar a:hover{
+    color: darksalmon;
+    text-decoration: dashed;
+}
+
+.navbar-brand img{
+    width: 50px;
+
+}
+
+.banniere img{
+    width: 100%;
+    height: 720px;
+    
+}
+
+.conteneur1{
+    margin-top: 50px;
+}
+.col{
+    margin-bottom: 50px;
+     
+}
+.titresection1 {
+    text-align: center;
+    color: crimson;
+    
+    
+    
+   
+}
+.section1 img{
+    width: 350px;
+    height: 230px;
+    
+    border-bottom: none;
+}
+
+.button{
+    width: 100%;
+    
+}
+
+.imagecol1{
+    display: flex;
+    width: 100%;
+
+    
+}
+
+
+.imagecol1 h3:hover{
+    color: goldenrod;
+    text-decoration: dashed;
+    text-shadow: lightcoral 1px 0 10px;
+}
+
+.imagecol1 article:hover{
+    color: goldenrod;
+    text-decoration: dashed;
+    text-shadow: lightcoral 1px 0 10px;
+}
+
+.imagecol1 h3{
+    padding: 20px;
+    font-family: fantasy;
+    color: lightcoral;
+    text-decoration-line: underline;
+    text-align: center;
+    
+}
+
+.turlut{
+    width: 498.8px;
+    height: 200px;
+}
+.turlut article{
+    padding: 10px 0px 0px 30px;
+    font-family: fantasy;
+    color: lightcoral;
+    font-size: 35px;
+    text-align: center;
+    margin: 0px;
+}
+
+
+.imagecol img{
+    display:table;
+    width: 300px;
+    height: 200px;
+    padding-bottom: 10px;
+    
+}
+
+.burgésamere{
+    display: inline;
+}
+
+.newimg2 img{
+    width: 250px;
+    height: 580px;
+}
+
+.formulaire{
+    margin-bottom: 30px;
+
+}
+
+footer{
+    border: 2px solid lightblue;
+    text-align: right;
+    box-shadow: 1px 1px 5px black;
+}
+
+.foot{
+    padding-right: 20px;
+}
